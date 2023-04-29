@@ -1,5 +1,7 @@
 # MidnightModpack
 
+This modpack requires Java 8!
+
 This modpack aims to enhance the immersion of The Midnight Mod!
 
 ### About:
