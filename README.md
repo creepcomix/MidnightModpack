@@ -1,7 +1,5 @@
 # MidnightModpack
 
-This modpack requires Java 8!
-
 This modpack aims to enhance the immersion of The Midnight Mod!
 
 ### About:
@@ -18,3 +16,5 @@ You should always support the original mod author(s) whenever possible. With thi
 Please report any issues you may have to the issue tracker!
 
 Please note: If you have any suggestions or questions/concerns, do not hesitate to report them through the issue tracker!
+
+This modpack requires Java 8!
